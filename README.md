@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development/Game developer.
 - 🌱 I’m currently learning  Btech CSE from Lovely Professional University.
 - 💞️ I’m looking to collaborate on to develop Website/Apps
-- 📫 How to reach me I got passed in 12th with good marks and by the help of CUET i got reached to take that course Btech CSE
+- 📫 How to reach me 
 
 <!---
 iampuneet07/iampuneet07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
